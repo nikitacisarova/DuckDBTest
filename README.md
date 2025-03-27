@@ -1,2 +1,2 @@
 # DuckDBTest
-Tets for auto documentation
+Test for auto documentation
